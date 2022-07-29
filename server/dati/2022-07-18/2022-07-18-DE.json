@@ -1,0 +1,3754 @@
+{
+    "data": [
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 205.09,
+            "co2intensityProduction": 209.06,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2408.0,
+                "BE": 800.0,
+                "CH": -2335.5,
+                "CZ": -112.0,
+                "DK-DK1": -277.43,
+                "DK-DK2": 526.19,
+                "FR": -2483.0,
+                "LU": -407.25,
+                "NL": 373.75,
+                "NO-NO2": -1444.0,
+                "PL": -936.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 205.05,
+                "BE": 107.73,
+                "CH": 205.3,
+                "CZ": 205.24,
+                "DK-DK1": 200.5,
+                "DK-DK2": 68.36,
+                "FR": 205.24,
+                "LU": 204.63,
+                "NL": 259.65,
+                "NO-NO2": 205.24,
+                "PL": 205.24,
+                "SE": 28.42
+            },
+            "fossilFuelRatio": 0.2113,
+            "fossilFuelRatioProduction": 0.2143,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 2483.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 800.0,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 33712.5,
+            "maxStorage": 5423.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 110.21
+            },
+            "production": {
+                "biomass": 5049.25,
+                "coal": 10530.0,
+                "gas": 2199.25,
+                "geothermal": 21.0,
+                "hydro": 1277.0,
+                "nuclear": 3810.0,
+                "oil": 8.0,
+                "solar": 33712.5,
+                "unknown": 334.0,
+                "wind": 4054.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.72,
+            "renewableRatioProduction": 0.7232,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T09:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 5423.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2133267832.5,
+            "totalCo2Import": 236676835.89999998,
+            "totalCo2NetExchange": -1896590996.6,
+            "totalCo2Production": 12751382500.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 47483.51,
+            "totalDischarge": 0,
+            "totalExport": 10403.18,
+            "totalImport": 2314.94,
+            "totalProduction": 60995.0,
+            "totalStorage": 5423.25
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 186.53,
+            "co2intensityProduction": 189.5,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2681.5,
+                "BE": 436.5,
+                "CH": -2126.5,
+                "CZ": -532.0,
+                "DK-DK1": -496.87,
+                "DK-DK2": 634.24,
+                "FR": -3073.0,
+                "LU": -417.75,
+                "NL": 313.75,
+                "NO-NO2": -1444.0,
+                "PL": -1058.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 186.56,
+                "BE": 102.48,
+                "CH": 186.54,
+                "CZ": 186.49,
+                "DK-DK1": 186.09,
+                "DK-DK2": 75.7,
+                "FR": 186.49,
+                "LU": 186.67,
+                "NL": 224.46,
+                "NO-NO2": 186.49,
+                "PL": 186.49,
+                "SE": 29.8
+            },
+            "fossilFuelRatio": 0.1867,
+            "fossilFuelRatioProduction": 0.1891,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3073.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 634.24,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 37059.75,
+            "maxStorage": 6315.5,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 87.59
+            },
+            "production": {
+                "biomass": 5048.25,
+                "coal": 9392.5,
+                "gas": 2214.25,
+                "geothermal": 21.0,
+                "hydro": 1287.75,
+                "nuclear": 3801.0,
+                "oil": 8.0,
+                "solar": 37059.75,
+                "unknown": 334.0,
+                "wind": 4033.5
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.7487999999999999,
+            "renewableRatioProduction": 0.7508,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T10:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 6315.5
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2206276310.8,
+            "totalCo2Import": 181495813.0,
+            "totalCo2NetExchange": -2024780497.8000002,
+            "totalCo2Production": 11976303250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 47054.37,
+            "totalDischarge": 0,
+            "totalExport": 11829.62,
+            "totalImport": 1999.49,
+            "totalProduction": 63200.0,
+            "totalStorage": 6315.5
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 178.71,
+            "co2intensityProduction": 181.76,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2724.25,
+                "BE": 372.5,
+                "CH": -2052.5,
+                "CZ": -719.0,
+                "DK-DK1": -866.51,
+                "DK-DK2": 728.86,
+                "FR": -3096.0,
+                "LU": -384.25,
+                "NL": 220.25,
+                "NO-NO2": -1444.0,
+                "PL": -1389.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 178.71,
+                "BE": 96.59,
+                "CH": 178.71,
+                "CZ": 178.71,
+                "DK-DK1": 178.71,
+                "DK-DK2": 72.64,
+                "FR": 178.71,
+                "LU": 178.71,
+                "NL": 205.44,
+                "NO-NO2": 178.71,
+                "PL": 178.71,
+                "SE": 30.25
+            },
+            "fossilFuelRatio": 0.17620000000000002,
+            "fossilFuelRatioProduction": 0.1791,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3096.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 728.86,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 38133.5,
+            "maxStorage": 7056.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 72.92
+            },
+            "production": {
+                "biomass": 5052.25,
+                "coal": 8788.25,
+                "gas": 2243.75,
+                "geothermal": 21.0,
+                "hydro": 1279.5,
+                "nuclear": 3692.5,
+                "oil": 8.0,
+                "solar": 38133.5,
+                "unknown": 334.0,
+                "wind": 3950.5
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.7612000000000001,
+            "renewableRatioProduction": 0.7626999999999999,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T11:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 7056.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2265240392.1,
+            "totalCo2Import": 152776075.4,
+            "totalCo2NetExchange": -2112464316.6999998,
+            "totalCo2Production": 11542099000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 45708.1,
+            "totalDischarge": 0,
+            "totalExport": 12675.51,
+            "totalImport": 1936.61,
+            "totalProduction": 63503.25,
+            "totalStorage": 7056.25
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 180.33,
+            "co2intensityProduction": 183.4,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2851.5,
+                "BE": 487.0,
+                "CH": -2084.5,
+                "CZ": -891.0,
+                "DK-DK1": -730.21,
+                "DK-DK2": 651.77,
+                "FR": -3073.0,
+                "LU": -373.25,
+                "NL": 70.0,
+                "NO-NO2": -1444.25,
+                "PL": -1377.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 180.34,
+                "BE": 96.71,
+                "CH": 180.39,
+                "CZ": 180.34,
+                "DK-DK1": 180.21,
+                "DK-DK2": 90.0,
+                "FR": 180.34,
+                "LU": 180.39,
+                "NL": 200.6,
+                "NO-NO2": 180.34,
+                "PL": 180.34,
+                "SE": 28.94
+            },
+            "fossilFuelRatio": 0.1777,
+            "fossilFuelRatioProduction": 0.1809,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3073.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 651.77,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 37106.75,
+            "maxStorage": 7363.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 40.02
+            },
+            "production": {
+                "biomass": 5045.75,
+                "coal": 8755.5,
+                "gas": 2179.25,
+                "geothermal": 21.0,
+                "hydro": 1262.75,
+                "nuclear": 3691.0,
+                "oil": 8.0,
+                "solar": 37106.75,
+                "unknown": 334.0,
+                "wind": 3949.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.7582,
+            "renewableRatioProduction": 0.76,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T12:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 7363.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2312836161.6,
+            "totalCo2Import": 137597170.0,
+            "totalCo2NetExchange": -2175238991.6,
+            "totalCo2Production": 11435503750.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 43988.31,
+            "totalDischarge": 0,
+            "totalExport": 12824.71,
+            "totalImport": 1823.77,
+            "totalProduction": 62353.0,
+            "totalStorage": 7363.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 189.85,
+            "co2intensityProduction": 193.92,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2903.0,
+                "BE": 348.5,
+                "CH": -2205.0,
+                "CZ": -744.0,
+                "DK-DK1": 222.08,
+                "DK-DK2": 883.18,
+                "FR": -3034.0,
+                "LU": -415.75,
+                "NL": -199.5,
+                "NO-NO2": -1423.0,
+                "PL": -1352.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 189.82,
+                "BE": 100.89,
+                "CH": 190.03,
+                "CZ": 189.86,
+                "DK-DK1": 152.77,
+                "DK-DK2": 69.97,
+                "FR": 189.86,
+                "LU": 190.01,
+                "NL": 192.15,
+                "NO-NO2": 189.73,
+                "PL": 189.86,
+                "SE": 25.68
+            },
+            "fossilFuelRatio": 0.19039999999999999,
+            "fossilFuelRatioProduction": 0.1949,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3034.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 883.18,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 34150.0,
+            "maxStorage": 6283.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 83.42
+            },
+            "production": {
+                "biomass": 5034.75,
+                "coal": 9174.25,
+                "gas": 2193.75,
+                "geothermal": 21.0,
+                "hydro": 1261.0,
+                "nuclear": 3698.25,
+                "oil": 8.0,
+                "solar": 34150.0,
+                "unknown": 334.0,
+                "wind": 4219.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.7429000000000001,
+            "renewableRatioProduction": 0.7436,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T13:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 6283.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2331361782.5,
+            "totalCo2Import": 146676631.2,
+            "totalCo2NetExchange": -2184685151.3,
+            "totalCo2Production": 11653415000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 43602.76,
+            "totalDischarge": 0,
+            "totalExport": 12276.25,
+            "totalImport": 2068.76,
+            "totalProduction": 60094.0,
+            "totalStorage": 6283.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 221.91,
+            "co2intensityProduction": 226.48,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2585.0,
+                "BE": -893.0,
+                "CH": -2626.75,
+                "CZ": -261.0,
+                "DK-DK1": 672.15,
+                "DK-DK2": 869.82,
+                "FR": -2387.0,
+                "LU": -309.5,
+                "NL": 751.75,
+                "NO-NO2": -897.75,
+                "PL": -1129.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 221.65,
+                "BE": 222.2,
+                "CH": 222.51,
+                "CZ": 222.02,
+                "DK-DK1": 133.9,
+                "DK-DK2": 73.87,
+                "FR": 222.02,
+                "LU": 222.28,
+                "NL": 278.53,
+                "NO-NO2": 220.92,
+                "PL": 222.02,
+                "SE": 24.45
+            },
+            "fossilFuelRatio": 0.2346,
+            "fossilFuelRatioProduction": 0.2377,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 2626.75,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 869.82,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 28920.25,
+            "maxStorage": 5080.0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 109.3
+            },
+            "production": {
+                "biomass": 5039.5,
+                "coal": 11032.75,
+                "gas": 2241.25,
+                "geothermal": 21.0,
+                "hydro": 1319.5,
+                "nuclear": 3827.75,
+                "oil": 8.0,
+                "solar": 28920.25,
+                "unknown": 334.0,
+                "wind": 4536.5
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.6959000000000001,
+            "renewableRatioProduction": 0.6955,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T14:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 5080.0
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2461564122.5,
+            "totalCo2Import": 378676165.9,
+            "totalCo2NetExchange": -2082887956.6,
+            "totalCo2Production": 12972864250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 44020.22,
+            "totalDischarge": 0,
+            "totalExport": 11089.0,
+            "totalImport": 2908.72,
+            "totalProduction": 57280.5,
+            "totalStorage": 5080.0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 283.44,
+            "co2intensityProduction": 292.9,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2305.5,
+                "BE": 48.25,
+                "CH": -2686.25,
+                "CZ": -147.0,
+                "DK-DK1": 1281.97,
+                "DK-DK2": 801.94,
+                "FR": -1845.0,
+                "LU": -361.75,
+                "NL": 63.25,
+                "NO-NO2": -287.0,
+                "PL": -981.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 283.45,
+                "BE": 125.56,
+                "CH": 283.29,
+                "CZ": 283.45,
+                "DK-DK1": 126.87,
+                "DK-DK2": 77.4,
+                "FR": 283.45,
+                "LU": 285.03,
+                "NL": 305.33,
+                "NO-NO2": 279.69,
+                "PL": 283.45,
+                "SE": 24.29
+            },
+            "fossilFuelRatio": 0.31489999999999996,
+            "fossilFuelRatioProduction": 0.3258,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 2686.25,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1281.97,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 21265.0,
+            "maxStorage": 2214.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 200.89
+            },
+            "production": {
+                "biomass": 5047.75,
+                "coal": 14404.5,
+                "gas": 2538.25,
+                "geothermal": 21.0,
+                "hydro": 1297.75,
+                "nuclear": 3961.0,
+                "oil": 8.0,
+                "solar": 21265.0,
+                "unknown": 334.0,
+                "wind": 4170.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.6068,
+            "renewableRatioProduction": 0.5995,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T15:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 2214.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2440559220.0,
+            "totalCo2Import": 265022432.4,
+            "totalCo2NetExchange": -2175536787.6,
+            "totalCo2Production": 15537694250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 45030.66,
+            "totalDischarge": 0,
+            "totalExport": 8613.5,
+            "totalImport": 2810.41,
+            "totalProduction": 53048.0,
+            "totalStorage": 2214.25
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 345.74,
+            "co2intensityProduction": 364.86,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -2002.25,
+                "BE": 142.75,
+                "CH": -2013.75,
+                "CZ": -117.0,
+                "DK-DK1": 1464.78,
+                "DK-DK2": 824.81,
+                "FR": -1194.0,
+                "LU": -328.75,
+                "NL": 1028.75,
+                "NO-NO2": 319.75,
+                "PL": -760.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 346.49,
+                "BE": 172.14,
+                "CH": 346.44,
+                "CZ": 345.75,
+                "DK-DK1": 133.55,
+                "DK-DK2": 83.05,
+                "FR": 345.75,
+                "LU": 345.41,
+                "NL": 349.94,
+                "NO-NO2": 27.61,
+                "PL": 345.75,
+                "SE": 24.01
+            },
+            "fossilFuelRatio": 0.4042,
+            "fossilFuelRatioProduction": 0.42090000000000005,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 887.75,
+            "maxExport": 2013.75,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1464.78,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 16044.0,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 344.42
+            },
+            "production": {
+                "biomass": 5052.5,
+                "coal": 16044.0,
+                "gas": 4013.25,
+                "geothermal": 21.0,
+                "hydro": 1332.25,
+                "nuclear": 3974.5,
+                "oil": 8.0,
+                "solar": 12652.75,
+                "unknown": 334.0,
+                "wind": 3749.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.5104,
+            "renewableRatioProduction": 0.49700000000000005,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T16:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -887.75
+            },
+            "totalCo2Discharge": 263863659.560334,
+            "totalCo2Export": 2221004940.0,
+            "totalCo2Import": 672290047.0,
+            "totalCo2NetExchange": -1548714893.0,
+            "totalCo2Production": 17214734500.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 46049.83,
+            "totalDischarge": 887.75,
+            "totalExport": 6415.75,
+            "totalImport": 4395.83,
+            "totalProduction": 47182.0,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 402.1,
+            "co2intensityProduction": 445.32,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -955.5,
+                "BE": 866.75,
+                "CH": -639.0,
+                "CZ": 280.0,
+                "DK-DK1": 2193.23,
+                "DK-DK2": 689.6,
+                "FR": -1342.0,
+                "LU": -331.5,
+                "NL": 704.25,
+                "NO-NO2": 917.75,
+                "PL": -508.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 402.24,
+                "BE": 203.64,
+                "CH": 401.69,
+                "CZ": 406.74,
+                "DK-DK1": 154.27,
+                "DK-DK2": 92.55,
+                "FR": 402.09,
+                "LU": 402.03,
+                "NL": 391.75,
+                "NO-NO2": 24.7,
+                "PL": 402.09,
+                "SE": 24.09
+            },
+            "fossilFuelRatio": 0.49090000000000006,
+            "fossilFuelRatioProduction": 0.5284,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 2724.0,
+            "maxExport": 1342.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2193.23,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 16579.25,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 415.01
+            },
+            "production": {
+                "biomass": 5049.75,
+                "coal": 16579.25,
+                "gas": 6536.75,
+                "geothermal": 21.0,
+                "hydro": 1295.0,
+                "nuclear": 3972.5,
+                "oil": 8.0,
+                "solar": 5203.75,
+                "unknown": 334.0,
+                "wind": 2635.5
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.41240000000000004,
+            "renewableRatioProduction": 0.3821,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T17:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -2724.0
+            },
+            "totalCo2Discharge": 809647545.6404954,
+            "totalCo2Export": 1518159675.0,
+            "totalCo2Import": 1005937954.6,
+            "totalCo2NetExchange": -512221720.4,
+            "totalCo2Production": 18541142250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 46850.08,
+            "totalDischarge": 2724.0,
+            "totalExport": 3776.0,
+            "totalImport": 6266.58,
+            "totalProduction": 41635.5,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 438.64,
+            "co2intensityProduction": 496.63,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -227.0,
+                "BE": 315.0,
+                "CH": -88.5,
+                "CZ": 511.0,
+                "DK-DK1": 2123.93,
+                "DK-DK2": 399.07,
+                "FR": -1290.0,
+                "LU": -299.25,
+                "NL": 906.5,
+                "NO-NO2": 1383.25,
+                "PL": -368.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 438.87,
+                "BE": 219.87,
+                "CH": 436.52,
+                "CZ": 407.93,
+                "DK-DK1": 140.48,
+                "DK-DK2": 94.61,
+                "FR": 438.68,
+                "LU": 438.58,
+                "NL": 427.19,
+                "NO-NO2": 24.41,
+                "PL": 438.68,
+                "SE": 23.86
+            },
+            "fossilFuelRatio": 0.5384,
+            "fossilFuelRatioProduction": 0.5839,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 3886.75,
+            "maxExport": 1290.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2123.93,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17062.25,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 426.4
+            },
+            "production": {
+                "biomass": 5049.5,
+                "coal": 17062.25,
+                "gas": 7452.25,
+                "geothermal": 21.0,
+                "hydro": 1244.5,
+                "nuclear": 3890.0,
+                "oil": 8.0,
+                "solar": 1483.75,
+                "unknown": 334.0,
+                "wind": 2137.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3661,
+            "renewableRatioProduction": 0.3248,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T18:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -3886.75
+            },
+            "totalCo2Discharge": 1155248751.1080012,
+            "totalCo2Export": 996832015.0,
+            "totalCo2Import": 1049523746.6,
+            "totalCo2NetExchange": 52691731.600000024,
+            "totalCo2Production": 19210654250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 46550.0,
+            "totalDischarge": 3886.75,
+            "totalExport": 2272.75,
+            "totalImport": 6253.75,
+            "totalProduction": 38682.25,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 448.46,
+            "co2intensityProduction": 510.81,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -96.25,
+                "BE": 107.5,
+                "CH": 46.75,
+                "CZ": 516.0,
+                "DK-DK1": 1876.52,
+                "DK-DK2": 653.17,
+                "FR": -1022.0,
+                "LU": -284.25,
+                "NL": 886.25,
+                "NO-NO2": 1404.0,
+                "PL": -336.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 448.36,
+                "BE": 226.19,
+                "CH": 86.6,
+                "CZ": 410.55,
+                "DK-DK1": 121.54,
+                "DK-DK2": 88.02,
+                "FR": 448.47,
+                "LU": 448.5,
+                "NL": 460.73,
+                "NO-NO2": 24.49,
+                "PL": 448.47,
+                "SE": 23.91
+            },
+            "fossilFuelRatio": 0.552,
+            "fossilFuelRatioProduction": 0.6017,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 3938.75,
+            "maxExport": 1022.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1876.52,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17083.5,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 434.95
+            },
+            "production": {
+                "biomass": 5056.5,
+                "coal": 17083.5,
+                "gas": 7628.25,
+                "geothermal": 21.0,
+                "hydro": 1314.25,
+                "nuclear": 3842.5,
+                "oil": 8.0,
+                "solar": 93.5,
+                "unknown": 334.0,
+                "wind": 2316.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3518,
+            "renewableRatioProduction": 0.306,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T19:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -3938.75
+            },
+            "totalCo2Discharge": 1170704577.9704485,
+            "totalCo2Export": 779663035.0,
+            "totalCo2Import": 983182611.7,
+            "totalCo2NetExchange": 203519576.70000005,
+            "totalCo2Production": 19256441000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 46002.94,
+            "totalDischarge": 3938.75,
+            "totalExport": 1738.5,
+            "totalImport": 6105.19,
+            "totalProduction": 37697.5,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 445.94,
+            "co2intensityProduction": 513.16,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": 121.0,
+                "BE": 249.25,
+                "CH": -186.5,
+                "CZ": 778.0,
+                "DK-DK1": 2118.77,
+                "DK-DK2": 760.6,
+                "FR": -1252.0,
+                "LU": -335.25,
+                "NL": 283.5,
+                "NO-NO2": 1404.0,
+                "PL": -128.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 212.61,
+                "BE": 225.24,
+                "CH": 445.94,
+                "CZ": 406.14,
+                "DK-DK1": 117.54,
+                "DK-DK2": 94.98,
+                "FR": 445.97,
+                "LU": 445.93,
+                "NL": 481.87,
+                "NO-NO2": 25.1,
+                "PL": 445.97,
+                "SE": 23.75
+            },
+            "fossilFuelRatio": 0.5448,
+            "fossilFuelRatioProduction": 0.6039,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 4027.0,
+            "maxExport": 1252.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2118.77,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17110.0,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 430.02
+            },
+            "production": {
+                "biomass": 5060.5,
+                "coal": 17110.0,
+                "gas": 7685.75,
+                "geothermal": 21.0,
+                "hydro": 1204.25,
+                "nuclear": 3843.75,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 334.0,
+                "wind": 2344.5
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.35619999999999996,
+            "renewableRatioProduction": 0.3037,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T20:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -4027.0
+            },
+            "totalCo2Discharge": 1196934899.520659,
+            "totalCo2Export": 848104442.5,
+            "totalCo2Import": 905582608.8,
+            "totalCo2NetExchange": 57478166.29999995,
+            "totalCo2Production": 19300747000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 46067.11,
+            "totalDischarge": 4027.0,
+            "totalExport": 1901.75,
+            "totalImport": 6330.11,
+            "totalProduction": 37611.75,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 449.57,
+            "co2intensityProduction": 511.46,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -458.25,
+                "BE": 660.5,
+                "CH": -837.75,
+                "CZ": 809.0,
+                "DK-DK1": 2224.14,
+                "DK-DK2": 687.5,
+                "FR": -1553.0,
+                "LU": -329.25,
+                "NL": 471.0,
+                "NO-NO2": 1404.0,
+                "PL": -269.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 449.42,
+                "BE": 232.95,
+                "CH": 449.68,
+                "CZ": 407.33,
+                "DK-DK1": 127.33,
+                "DK-DK2": 106.68,
+                "FR": 449.59,
+                "LU": 449.6,
+                "NL": 469.45,
+                "NO-NO2": 40.23,
+                "PL": 449.59,
+                "SE": 23.53
+            },
+            "fossilFuelRatio": 0.562,
+            "fossilFuelRatioProduction": 0.6217,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 2497.25,
+            "maxExport": 1553.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2224.14,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17313.0,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 406.57
+            },
+            "production": {
+                "biomass": 5066.0,
+                "coal": 17313.0,
+                "gas": 7374.0,
+                "geothermal": 21.0,
+                "hydro": 1184.5,
+                "nuclear": 3852.5,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 334.0,
+                "wind": 2618.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3326,
+            "renewableRatioProduction": 0.2826,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T21:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -2497.25
+            },
+            "totalCo2Discharge": 742251223.6970364,
+            "totalCo2Export": 1549849915.0,
+            "totalCo2Import": 1132000511.2,
+            "totalCo2NetExchange": -417849403.79999995,
+            "totalCo2Production": 19318354000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 43692.13,
+            "totalDischarge": 2497.25,
+            "totalExport": 3447.25,
+            "totalImport": 6871.13,
+            "totalProduction": 37771.0,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 453.52,
+            "co2intensityProduction": 508.54,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -366.5,
+                "BE": 372.75,
+                "CH": -764.0,
+                "CZ": 1177.0,
+                "DK-DK1": 2332.63,
+                "DK-DK2": 844.64,
+                "FR": -1081.0,
+                "LU": -308.75,
+                "NL": 13.75,
+                "NO-NO2": 1403.75,
+                "PL": -104.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 453.87,
+                "BE": 224.13,
+                "CH": 453.47,
+                "CZ": 413.24,
+                "DK-DK1": 130.95,
+                "DK-DK2": 96.15,
+                "FR": 453.51,
+                "LU": 453.42,
+                "NL": 456.3,
+                "NO-NO2": 54.54,
+                "PL": 453.51,
+                "SE": 23.63
+            },
+            "fossilFuelRatio": 0.5704,
+            "fossilFuelRatioProduction": 0.6417,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1081.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2332.63,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17516.25,
+            "maxStorage": 485.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 389.77
+            },
+            "production": {
+                "biomass": 5020.5,
+                "coal": 17516.25,
+                "gas": 5821.0,
+                "geothermal": 21.0,
+                "hydro": 1211.0,
+                "nuclear": 3860.0,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 336.0,
+                "wind": 3017.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3125,
+            "renewableRatioProduction": 0.25370000000000004,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T22:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 485.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1190197210.0,
+            "totalCo2Import": 1053965072.0,
+            "totalCo2NetExchange": -136232138.0,
+            "totalCo2Production": 18720107250.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 40461.03,
+            "totalDischarge": 0,
+            "totalExport": 2624.25,
+            "totalImport": 6759.53,
+            "totalProduction": 36811.5,
+            "totalStorage": 485.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 452.9,
+            "co2intensityProduction": 504.78,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -474.75,
+                "BE": 368.5,
+                "CH": -1664.5,
+                "CZ": 1496.0,
+                "DK-DK1": 2246.75,
+                "DK-DK2": 866.02,
+                "FR": -914.0,
+                "LU": -285.0,
+                "NL": 369.25,
+                "NO-NO2": 1383.75,
+                "PL": 253.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 452.77,
+                "BE": 229.9,
+                "CH": 452.85,
+                "CZ": 435.78,
+                "DK-DK1": 139.62,
+                "DK-DK2": 100.19,
+                "FR": 452.89,
+                "LU": 452.95,
+                "NL": 456.27,
+                "NO-NO2": 62.94,
+                "PL": 657.91,
+                "SE": 23.43
+            },
+            "fossilFuelRatio": 0.563,
+            "fossilFuelRatioProduction": 0.6265999999999999,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1664.5,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2246.75,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17510.75,
+            "maxStorage": 960.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 328.49
+            },
+            "production": {
+                "biomass": 5014.25,
+                "coal": 17510.75,
+                "gas": 4697.0,
+                "geothermal": 21.0,
+                "hydro": 1163.5,
+                "nuclear": 3867.0,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 336.0,
+                "wind": 3370.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.31489999999999996,
+            "renewableRatioProduction": 0.2659,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-17T23:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 960.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1511753592.5,
+            "totalCo2Import": 1573534411.3,
+            "totalCo2NetExchange": 61780818.79999995,
+            "totalCo2Production": 18166226750.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 39287.52,
+            "totalDischarge": 0,
+            "totalExport": 3338.25,
+            "totalImport": 7598.27,
+            "totalProduction": 35988.25,
+            "totalStorage": 960.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 450.15,
+            "co2intensityProduction": 499.23,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -817.5,
+                "BE": 668.0,
+                "CH": -1894.0,
+                "CZ": 1413.0,
+                "DK-DK1": 2293.69,
+                "DK-DK2": 890.52,
+                "FR": -512.0,
+                "LU": -318.25,
+                "NL": 429.25,
+                "NO-NO2": 1020.75,
+                "PL": 268.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 450.14,
+                "BE": 227.32,
+                "CH": 450.15,
+                "CZ": 435.75,
+                "DK-DK1": 143.63,
+                "DK-DK2": 108.01,
+                "FR": 450.15,
+                "LU": 450.15,
+                "NL": 448.84,
+                "NO-NO2": 61.38,
+                "PL": 657.08,
+                "SE": 23.46
+            },
+            "fossilFuelRatio": 0.5599000000000001,
+            "fossilFuelRatioProduction": 0.6181,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1894.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2293.69,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17534.5,
+            "maxStorage": 1719.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 299.23
+            },
+            "production": {
+                "biomass": 5002.0,
+                "coal": 17534.5,
+                "gas": 4551.75,
+                "geothermal": 21.0,
+                "hydro": 1143.5,
+                "nuclear": 3865.25,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 336.0,
+                "wind": 3826.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3164,
+            "renewableRatioProduction": 0.2754,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T00:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 1719.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1594310587.5,
+            "totalCo2Import": 1639035814.9,
+            "totalCo2NetExchange": 44725227.400000095,
+            "totalCo2Production": 18116218500.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 38624.72,
+            "totalDischarge": 0,
+            "totalExport": 3541.75,
+            "totalImport": 7598.22,
+            "totalProduction": 36288.0,
+            "totalStorage": 1719.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 452.21,
+            "co2intensityProduction": 494.52,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -605.25,
+                "BE": 355.25,
+                "CH": -1890.25,
+                "CZ": 1369.0,
+                "DK-DK1": 2133.85,
+                "DK-DK2": 895.51,
+                "FR": -47.0,
+                "LU": -312.25,
+                "NL": 814.75,
+                "NO-NO2": 760.0,
+                "PL": 310.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 452.24,
+                "BE": 226.45,
+                "CH": 452.21,
+                "CZ": 435.41,
+                "DK-DK1": 148.68,
+                "DK-DK2": 109.7,
+                "FR": 452.21,
+                "LU": 452.22,
+                "NL": 442.93,
+                "NO-NO2": 63.3,
+                "PL": 657.94,
+                "SE": 23.53
+            },
+            "fossilFuelRatio": 0.5658,
+            "fossilFuelRatioProduction": 0.6149,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1890.25,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2133.85,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17526.25,
+            "maxStorage": 2685.75,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 282.44
+            },
+            "production": {
+                "biomass": 5001.5,
+                "coal": 17526.25,
+                "gas": 4803.75,
+                "geothermal": 21.0,
+                "hydro": 1126.25,
+                "nuclear": 3864.5,
+                "oil": 8.0,
+                "solar": 0.0,
+                "unknown": 336.0,
+                "wind": 4189.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3145,
+            "renewableRatioProduction": 0.2804,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T01:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 2685.75
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1290967777.5,
+            "totalCo2Import": 1719438485.0,
+            "totalCo2NetExchange": 428470707.5,
+            "totalCo2Production": 18236396750.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 38589.87,
+            "totalDischarge": 0,
+            "totalExport": 2854.75,
+            "totalImport": 7253.37,
+            "totalProduction": 36877.0,
+            "totalStorage": 2685.75
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 438.0,
+            "co2intensityProduction": 483.35,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -903.25,
+                "BE": 911.5,
+                "CH": -1842.5,
+                "CZ": 930.0,
+                "DK-DK1": 2214.57,
+                "DK-DK2": 895.51,
+                "FR": 66.0,
+                "LU": -292.75,
+                "NL": 1026.5,
+                "NO-NO2": 845.0,
+                "PL": -78.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 437.85,
+                "BE": 225.42,
+                "CH": 438.17,
+                "CZ": 440.92,
+                "DK-DK1": 136.31,
+                "DK-DK2": 112.53,
+                "FR": 102.65,
+                "LU": 438.18,
+                "NL": 446.88,
+                "NO-NO2": 62.55,
+                "PL": 438.05,
+                "SE": 23.5
+            },
+            "fossilFuelRatio": 0.5542,
+            "fossilFuelRatioProduction": 0.6046,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1842.5,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2214.57,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17617.0,
+            "maxStorage": 2694.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 287.08
+            },
+            "production": {
+                "biomass": 4993.0,
+                "coal": 17617.0,
+                "gas": 5191.5,
+                "geothermal": 21.0,
+                "hydro": 1162.75,
+                "nuclear": 3916.5,
+                "oil": 8.0,
+                "solar": 0.75,
+                "unknown": 336.0,
+                "wind": 5048.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3268,
+            "renewableRatioProduction": 0.29309999999999997,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T02:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 2694.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1365261332.5,
+            "totalCo2Import": 1550970177.0,
+            "totalCo2NetExchange": 185708844.5,
+            "totalCo2Production": 18509837000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 39988.58,
+            "totalDischarge": 0,
+            "totalExport": 3116.5,
+            "totalImport": 7504.08,
+            "totalProduction": 38295.25,
+            "totalStorage": 2694.25
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 424.98,
+            "co2intensityProduction": 463.26,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -594.25,
+                "BE": -240.25,
+                "CH": -1476.25,
+                "CZ": 1051.0,
+                "DK-DK1": 2164.3,
+                "DK-DK2": 777.32,
+                "FR": -74.0,
+                "LU": -239.25,
+                "NL": 2047.0,
+                "NO-NO2": 1195.5,
+                "PL": -304.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 424.56,
+                "BE": 424.49,
+                "CH": 425.86,
+                "CZ": 431.12,
+                "DK-DK1": 122.82,
+                "DK-DK2": 111.1,
+                "FR": 425.21,
+                "LU": 425.9,
+                "NL": 443.16,
+                "NO-NO2": 57.19,
+                "PL": 425.21,
+                "SE": 23.89
+            },
+            "fossilFuelRatio": 0.5431,
+            "fossilFuelRatioProduction": 0.583,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 1476.25,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2164.3,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17562.5,
+            "maxStorage": 2152.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 305.11
+            },
+            "production": {
+                "biomass": 4973.0,
+                "coal": 17562.5,
+                "gas": 5630.5,
+                "geothermal": 21.0,
+                "hydro": 1240.0,
+                "nuclear": 3921.0,
+                "oil": 8.0,
+                "solar": 168.75,
+                "unknown": 336.0,
+                "wind": 6508.25
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3505,
+            "renewableRatioProduction": 0.31980000000000003,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T03:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 2152.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 1245580282.5,
+            "totalCo2Import": 1795498213.0,
+            "totalCo2NetExchange": 549917930.5,
+            "totalCo2Production": 18701179500.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 43138.87,
+            "totalDischarge": 0,
+            "totalExport": 2928.0,
+            "totalImport": 7850.12,
+            "totalProduction": 40369.0,
+            "totalStorage": 2152.25
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 403.34,
+            "co2intensityProduction": 437.86,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -192.0,
+                "BE": 599.25,
+                "CH": -21.0,
+                "CZ": 690.0,
+                "DK-DK1": 1657.75,
+                "DK-DK2": 746.88,
+                "FR": -671.0,
+                "LU": -354.25,
+                "NL": 1325.25,
+                "NO-NO2": 1389.5,
+                "PL": -593.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 400.43,
+                "BE": 230.98,
+                "CH": 302.83,
+                "CZ": 420.71,
+                "DK-DK1": 113.54,
+                "DK-DK2": 116.99,
+                "FR": 403.64,
+                "LU": 403.09,
+                "NL": 443.42,
+                "NO-NO2": 41.83,
+                "PL": 403.64,
+                "SE": 24.42
+            },
+            "fossilFuelRatio": 0.5202,
+            "fossilFuelRatioProduction": 0.5571,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 497.75,
+            "maxExport": 671.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1657.75,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17484.75,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 393.11
+            },
+            "production": {
+                "biomass": 4967.0,
+                "coal": 17484.75,
+                "gas": 7659.25,
+                "geothermal": 21.0,
+                "hydro": 1316.75,
+                "nuclear": 3995.5,
+                "oil": 8.0,
+                "solar": 1924.25,
+                "unknown": 336.0,
+                "wind": 7326.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.3835,
+            "renewableRatioProduction": 0.3556,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T04:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -497.75
+            },
+            "totalCo2Discharge": 147944958.09198114,
+            "totalCo2Export": 736237582.5,
+            "totalCo2Import": 1365086531.2,
+            "totalCo2NetExchange": 628848948.7,
+            "totalCo2Production": 19720869000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 50729.38,
+            "totalDischarge": 497.75,
+            "totalExport": 1831.25,
+            "totalImport": 7023.63,
+            "totalProduction": 45039.25,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 370.43,
+            "co2intensityProduction": 400.92,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -181.0,
+                "BE": -251.25,
+                "CH": 135.5,
+                "CZ": 707.0,
+                "DK-DK1": 2087.66,
+                "DK-DK2": 837.1,
+                "FR": -957.0,
+                "LU": -362.5,
+                "NL": 1225.75,
+                "NO-NO2": 1268.75,
+                "PL": -899.0,
+                "SE": 615.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 367.47,
+                "BE": 368.0,
+                "CH": 76.65,
+                "CZ": 415.13,
+                "DK-DK1": 108.18,
+                "DK-DK2": 119.91,
+                "FR": 370.6,
+                "LU": 370.61,
+                "NL": 410.39,
+                "NO-NO2": 28.59,
+                "PL": 370.6,
+                "SE": 25.02
+            },
+            "fossilFuelRatio": 0.4604,
+            "fossilFuelRatioProduction": 0.4904,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 2139.75,
+            "maxExport": 957.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2087.66,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17547.75,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 424.94
+            },
+            "production": {
+                "biomass": 4986.25,
+                "coal": 17547.75,
+                "gas": 7584.25,
+                "geothermal": 21.0,
+                "hydro": 1367.0,
+                "nuclear": 4025.5,
+                "oil": 8.0,
+                "solar": 7023.75,
+                "unknown": 336.0,
+                "wind": 6903.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.45740000000000003,
+            "renewableRatioProduction": 0.4321,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T05:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -2139.75
+            },
+            "totalCo2Discharge": 635992414.017713,
+            "totalCo2Export": 981151795.0,
+            "totalCo2Import": 1184799109.8,
+            "totalCo2NetExchange": 203647314.79999995,
+            "totalCo2Production": 19966588750.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 56168.26,
+            "totalDischarge": 2139.75,
+            "totalExport": 2650.75,
+            "totalImport": 6876.76,
+            "totalProduction": 49802.5,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 336.68,
+            "co2intensityProduction": 356.53,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -490.0,
+                "BE": -258.25,
+                "CH": -458.75,
+                "CZ": 877.0,
+                "DK-DK1": 2013.28,
+                "DK-DK2": 893.24,
+                "FR": -1926.0,
+                "LU": -301.0,
+                "NL": 952.5,
+                "NO-NO2": 1242.5,
+                "PL": -896.0,
+                "SE": 429.12
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 338.03,
+                "BE": 336.29,
+                "CH": 334.91,
+                "CZ": 399.56,
+                "DK-DK1": 112.71,
+                "DK-DK2": 122.64,
+                "FR": 336.79,
+                "LU": 336.75,
+                "NL": 383.2,
+                "NO-NO2": 24.46,
+                "PL": 336.79,
+                "SE": 25.5
+            },
+            "fossilFuelRatio": 0.41509999999999997,
+            "fossilFuelRatioProduction": 0.4366,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 1363.75,
+            "maxExport": 1926.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 2013.28,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 17223.0,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 401.82
+            },
+            "production": {
+                "biomass": 5036.75,
+                "coal": 17223.0,
+                "gas": 7646.5,
+                "geothermal": 21.0,
+                "hydro": 1318.75,
+                "nuclear": 4019.0,
+                "oil": 8.0,
+                "solar": 15024.25,
+                "unknown": 336.0,
+                "wind": 5709.75
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.5114,
+            "renewableRatioProduction": 0.49369999999999997,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T06:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -1363.75
+            },
+            "totalCo2Discharge": 405343920.839657,
+            "totalCo2Export": 1457904685.0,
+            "totalCo2Import": 1093209972.4,
+            "totalCo2NetExchange": -364694712.5999999,
+            "totalCo2Production": 20088072000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 59784.39,
+            "totalDischarge": 1363.75,
+            "totalExport": 4330.0,
+            "totalImport": 6407.64,
+            "totalProduction": 56343.0,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 310.22,
+            "co2intensityProduction": 324.15,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -1097.0,
+                "BE": -845.5,
+                "CH": -837.0,
+                "CZ": 844.0,
+                "DK-DK1": 1800.2,
+                "DK-DK2": 698.38,
+                "FR": -2832.0,
+                "LU": -405.25,
+                "NL": 842.0,
+                "NO-NO2": 1181.25,
+                "PL": -837.0,
+                "SE": 359.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 310.72,
+                "BE": 310.51,
+                "CH": 310.54,
+                "CZ": 388.82,
+                "DK-DK1": 94.34,
+                "DK-DK2": 118.04,
+                "FR": 310.26,
+                "LU": 310.16,
+                "NL": 353.11,
+                "NO-NO2": 24.46,
+                "PL": 310.26,
+                "SE": 25.9
+            },
+            "fossilFuelRatio": 0.3778,
+            "fossilFuelRatioProduction": 0.39399999999999996,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 293.0,
+            "maxExport": 2832.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1800.2,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 22813.5,
+            "maxStorage": 0,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 373.93
+            },
+            "production": {
+                "biomass": 4699.0,
+                "coal": 17324.5,
+                "gas": 7106.0,
+                "geothermal": 21.0,
+                "hydro": 1322.5,
+                "nuclear": 4006.0,
+                "oil": 8.0,
+                "solar": 22813.5,
+                "unknown": 336.0,
+                "wind": 4577.0
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.5549000000000001,
+            "renewableRatioProduction": 0.5422,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T07:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": -293.0
+            },
+            "totalCo2Discharge": 87087639.82109587,
+            "totalCo2Export": 2127354305.0,
+            "totalCo2Import": 915941818.2,
+            "totalCo2NetExchange": -1211412486.8,
+            "totalCo2Production": 20166764500.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 61377.58,
+            "totalDischarge": 293.0,
+            "totalExport": 6853.75,
+            "totalImport": 5724.83,
+            "totalProduction": 62213.5,
+            "totalStorage": 0
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 289.89,
+            "co2intensityProduction": 298.95,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -1268.5,
+                "BE": -386.0,
+                "CH": -778.5,
+                "CZ": 534.0,
+                "DK-DK1": 1396.59,
+                "DK-DK2": 772.93,
+                "FR": -3328.0,
+                "LU": -429.0,
+                "NL": 301.0,
+                "NO-NO2": 609.75,
+                "PL": -1199.0,
+                "SE": 359.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 290.5,
+                "BE": 290.0,
+                "CH": 289.25,
+                "CZ": 380.23,
+                "DK-DK1": 88.3,
+                "DK-DK2": 117.2,
+                "FR": 289.91,
+                "LU": 290.25,
+                "NL": 320.54,
+                "NO-NO2": 24.55,
+                "PL": 289.91,
+                "SE": 25.76
+            },
+            "fossilFuelRatio": 0.3472,
+            "fossilFuelRatioProduction": 0.359,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3328.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1396.59,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 28844.25,
+            "maxStorage": 966.5,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 324.03
+            },
+            "production": {
+                "biomass": 4587.0,
+                "coal": 17312.75,
+                "gas": 6523.0,
+                "geothermal": 21.0,
+                "hydro": 1328.0,
+                "nuclear": 3989.0,
+                "oil": 8.0,
+                "solar": 28844.25,
+                "unknown": 336.0,
+                "wind": 4333.25
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.5903,
+            "renewableRatioProduction": 0.5818,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T08:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 966.5
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2142560195.0,
+            "totalCo2Import": 537648855.5,
+            "totalCo2NetExchange": -1604911339.5,
+            "totalCo2Production": 20114330000.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 62900.02,
+            "totalDischarge": 0,
+            "totalExport": 7389.0,
+            "totalImport": 3973.27,
+            "totalProduction": 67282.25,
+            "totalStorage": 966.5
+        },
+        {
+            "_isFinestGranularity": true,
+            "capacity": {
+                "battery storage": 580.0,
+                "biomass": 9420.0,
+                "coal": 39870.0,
+                "gas": 31680.0,
+                "geothermal": 47.0,
+                "hydro": 4940.0,
+                "hydro storage": 9800.0,
+                "nuclear": 4055.0,
+                "oil": 4680.0,
+                "solar": 59400.0,
+                "unknown": 3700.0,
+                "wind": 64280.0
+            },
+            "co2intensity": 280.64,
+            "co2intensityProduction": 286.35,
+            "countryCode": "DE",
+            "dischargeCo2Intensities": {
+                "battery": 297.22743966244326,
+                "hydro": 297.22743966244326
+            },
+            "dischargeCo2IntensitySources": {
+                "battery": "electricityMap, 2021 average",
+                "hydro": "electricityMap, 2021 average"
+            },
+            "estimationMethod": null,
+            "exchange": {
+                "AT": -1035.25,
+                "BE": -546.0,
+                "CH": -679.5,
+                "CZ": 298.0,
+                "DK-DK1": 1183.51,
+                "DK-DK2": 843.22,
+                "FR": -3652.0,
+                "LU": -401.75,
+                "NL": 644.0,
+                "NO-NO2": 32.25,
+                "PL": -1199.0,
+                "SE": 359.0
+            },
+            "exchangeCapacities": {
+                "BE": [
+                    -1000.0,
+                    1000.0
+                ],
+                "DK-DK1": [
+                    -2500.0,
+                    2500.0
+                ],
+                "DK-DK2": [
+                    -1000.0,
+                    985.0
+                ],
+                "NO-NO2": [
+                    -1444.0,
+                    1444.0
+                ],
+                "SE": [
+                    -615.0,
+                    615.0
+                ]
+            },
+            "exchangeCo2Intensities": {
+                "AT": 280.64,
+                "BE": 280.64,
+                "CH": 280.65,
+                "CZ": 378.29,
+                "DK-DK1": 125.63,
+                "DK-DK2": 76.66,
+                "FR": 280.64,
+                "LU": 280.65,
+                "NL": 323.52,
+                "NO-NO2": 42.07,
+                "PL": 280.64,
+                "SE": 24.93
+            },
+            "fossilFuelRatio": 0.33340000000000003,
+            "fossilFuelRatioProduction": 0.3392,
+            "maxCapacity": 64280.0,
+            "maxDischarge": 0,
+            "maxExport": 3652.0,
+            "maxExportCapacity": 2500.0,
+            "maxImport": 1183.51,
+            "maxImportCapacity": 2500.0,
+            "maxProduction": 32092.0,
+            "maxStorage": 1739.25,
+            "maxStorageCapacity": 9800.0,
+            "price": {
+                "currency": "EUR",
+                "value": 303.44
+            },
+            "production": {
+                "biomass": 4581.5,
+                "coal": 17294.75,
+                "gas": 6093.5,
+                "geothermal": 21.0,
+                "hydro": 1312.25,
+                "nuclear": 3978.5,
+                "oil": 8.0,
+                "solar": 32092.0,
+                "unknown": 336.0,
+                "wind": 4240.25
+            },
+            "productionCo2Intensities": {
+                "biomass": 230,
+                "coal": 820,
+                "gas": 490,
+                "geothermal": 38,
+                "hydro": 24,
+                "nuclear": 12,
+                "oil": 650,
+                "solar": 45,
+                "unknown": 700,
+                "wind": 11
+            },
+            "productionCo2IntensitySources": {
+                "biomass": "IPCC 2014",
+                "coal": "IPCC 2014",
+                "gas": "IPCC 2014",
+                "geothermal": "IPCC 2014",
+                "hydro": "IPCC 2014",
+                "nuclear": "IPCC 2014",
+                "oil": "UK POST 2014",
+                "solar": "IPCC 2014",
+                "unknown": "assumes thermal (coal, gas, oil or biomass)",
+                "wind": "IPCC 2014"
+            },
+            "renewableRatio": 0.6068,
+            "renewableRatioProduction": 0.6039,
+            "source": "entsoe.eu",
+            "stateDatetime": "2022-07-18T09:00:00Z",
+            "storage": {
+                "battery": null,
+                "hydro": 1739.25
+            },
+            "totalCo2Discharge": 0,
+            "totalCo2Export": 2108599452.5,
+            "totalCo2Import": 544709534.0,
+            "totalCo2NetExchange": -1563889918.5,
+            "totalCo2Production": 20032471750.0,
+            "totalCo2Storage": 0,
+            "totalConsumption": 64064.98,
+            "totalDischarge": 0,
+            "totalExport": 7513.5,
+            "totalImport": 3359.98,
+            "totalProduction": 69957.75,
+            "totalStorage": 1739.25
+        }
+    ]
+}
