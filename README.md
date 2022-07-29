@@ -60,9 +60,9 @@ $ sysctl -w vm.max_map_count=262144
 |Kibana                  |http://localhost:5601/  | To access the dashboard                           |
 
 <br>
-## Authors
-- <a href="https://www.docker.com/">Gabriele Sanguedolce</a>
-- <a href="https://www.docker.com/">Francesco Cristoforo Conti</a>
+<h3> Authors </h3>
+- <a href="https://github.com/S-Gabriele/">Gabriele Sanguedolce</a>
+- <a href="https://github.com/ciccio2305/">Francesco Cristoforo Conti</a>
 
 
 
